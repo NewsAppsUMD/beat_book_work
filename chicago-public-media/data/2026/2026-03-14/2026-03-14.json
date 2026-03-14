@@ -1,6 +1,6 @@
 {
   "date": "2026-03-14",
-  "entry_count": 20,
+  "entry_count": 22,
   "entries": [
     {
       "title": "Severe wind topples power lines, delays travel amid roller-coaster week of weather in Chicago",
@@ -201,7 +201,27 @@
       "author": "Michael O'Brien",
       "id": "https://chicago.suntimes.com/high-school-basketball/2026/03/14/marshall-basketball-ihsa-state-goreville",
       "tags": []
+    },
+    {
+      "title": "Man shot and critically wounded while confronting alleged thief at Loop convenience store",
+      "link": "https://chicago.suntimes.com/crime/2026/03/14/man-shot-and-critically-wounded-while-confronting-alleged-thief-at-loop-convenience-store",
+      "published": "2026-03-14T15:05:47.984-05:00",
+      "published_parsed": "2026-03-14T20:05:47",
+      "summary": "<img alt=\"A man was shot while confronting an alleged thief in the Loop on Friday night. \" src=\"https://cst.brightspotcdn.com/dims4/default/946b888/2147483647/strip/true/crop/6974x4652+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fc0%2Fda%2Fc5e1b58cd8f0d124ed5495347562%2Fcpd-08.JPG\" />\n        \n        \n            &lt;p&gt;A man was shot and critically wounded after he confronted an apparent thief who stole from a Loop convenience store Friday night. &lt;/p&gt;&lt;p&gt;The shooting happened around 10:40 p.m. outside the store in the 100 block of West Adams Street when the man, 31, confronted the alleged thief, Chicago police said. &lt;/p&gt;&lt;p&gt;He was taken to Northwestern Memorial Hospital with multiple gunshot wounds to his body and was in critical condition, police said. &lt;/p&gt;&lt;p&gt;Area 4 detectives were investigating. &lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/03/14/man-shot-and-critically-wounded-while-confronting-alleged-thief-at-loop-convenience-store",
+      "tags": []
+    },
+    {
+      "title": "Man fatally shot in West Town",
+      "link": "https://chicago.suntimes.com/crime/2026/03/14/man-fatally-shot-in-west-town",
+      "published": "2026-03-14T14:57:36.522-05:00",
+      "published_parsed": "2026-03-14T19:57:36",
+      "summary": "<img alt=\"A man was fatally shot early Saturday morning in West Town. \" src=\"https://cst.brightspotcdn.com/dims4/default/8de33dc/2147483647/strip/true/crop/6631x4423+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F77%2F04%2F02a2d57403c4fc5f0464a6c497cd%2Fcpd-03.JPG\" />\n        \n        \n            &lt;p&gt;A man was fatally shot early Saturday in the West Town neighborhood. &lt;/p&gt;&lt;p&gt;The man, 34, was in an alleyway in the 1600 block of West Ohio Street around 12:40 a.m. when he was shot multiple times in the body, Chicago police said. &lt;/p&gt;&lt;p&gt;He was taken to Stroger Hospital, where he was pronounced dead, police said. &lt;/p&gt;&lt;p&gt;Area 3 detectives were investigating. &lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/03/14/man-fatally-shot-in-west-town",
+      "tags": []
     }
   ],
-  "last_updated": "2026-03-14T18:06:39.893290"
+  "last_updated": "2026-03-14T21:06:47.736297"
 }
