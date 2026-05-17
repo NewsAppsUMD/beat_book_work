@@ -1,6 +1,6 @@
 {
   "date": "2026-05-17",
-  "entry_count": 9,
+  "entry_count": 10,
   "entries": [
     {
       "title": "Aaron Rodgers returning for another year with Steelers",
@@ -91,7 +91,17 @@
       "author": "Somer Van Benton | WBEZ",
       "id": "https://chicago.suntimes.com/news/2026/05/17/as-red-line-expands-south-and-west-siders-run-along-103rd-street-to-imagine-something-new",
       "tags": []
+    },
+    {
+      "title": "Man fatally shot in West Englewood, police say",
+      "link": "https://chicago.suntimes.com/crime/2026/05/17/west-englewood-shooting-damen",
+      "published": "2026-05-17T10:15:27.443-05:00",
+      "published_parsed": "2026-05-17T15:15:27",
+      "summary": "<img alt=\"Police tape at an armored car robbery. | Brian Jackson~Sun-Times\" src=\"https://cst.brightspotcdn.com/dims4/default/50789b8/2147483647/strip/true/crop/1024x630+0+0/resize/840x517!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fec%2F01%2F6dccade68f53978314d6dbfe1e72%2Fcrime-scene-tape2.jpg\" />\n        \n        \n            &lt;p&gt;A man was shot and killed in West Englewood Saturday night, according to Chicago police.&lt;/p&gt;&lt;p&gt;The man, 37, was in the 5700 block of South Damen Avenue around 10:40 p.m. when someone fired shots, striking him in the arm and buttocks, police said in a statement.&lt;/p&gt;&lt;p&gt;He was taken to University of Chicago Medical Center and pronounced dead, police said. No arrests were reported.&lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/05/17/west-englewood-shooting-damen",
+      "tags": []
     }
   ],
-  "last_updated": "2026-05-17T12:18:55.820889"
+  "last_updated": "2026-05-17T15:22:39.953713"
 }
