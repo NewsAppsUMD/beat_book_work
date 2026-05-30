@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "entry_count": 14,
+  "entry_count": 15,
   "entries": [
     {
       "title": "Mayor Johnson’s meeting with Pope Leo gets mixed reaction from Chicagoans",
@@ -141,7 +141,17 @@
       "author": "Jan Parr",
       "id": "https://chicago.suntimes.com/travel/2026/05/30/indiana-dunes-southwest-michigan-travel-red-arrow-highway-beverly-shores-michiana-union-pier-new-buffalo-sawyer-three-oaks",
       "tags": []
+    },
+    {
+      "title": "Man found dead in West Ridge",
+      "link": "https://chicago.suntimes.com/crime/2026/05/30/man-found-dead-in-west-ridge",
+      "published": "2026-05-30T09:14:41.267-05:00",
+      "published_parsed": "2026-05-30T14:14:41",
+      "summary": "<img alt=\"Chicago Police Department\" src=\"https://cst.brightspotcdn.com/dims4/default/70d8d60/2147483647/strip/true/crop/1200x630+0+0/resize/840x441!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F56%2F5e%2F88492157a67ff80679b152fffdc7%2Fcpd-015.jpg\" />\n        \n        \n            &lt;p&gt;A man was found dead Friday afternoon in West Ridge on the Northwest Side. &lt;/p&gt;&lt;p&gt;The 68-year-old was found outside just before 2 p.m. in the 2800 block of West Devon Avenue, Chicago police said. &lt;/p&gt;&lt;p&gt;The man suffered blunt force trauma to the head, police said. He was taken to Saint Francis Hospital in Evanston, where he was pronounced dead. His name has not been released. &lt;/p&gt;&lt;p&gt;No arrests were made. &lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/05/30/man-found-dead-in-west-ridge",
+      "tags": []
     }
   ],
-  "last_updated": "2026-05-30T12:24:24.245653"
+  "last_updated": "2026-05-30T15:26:23.071549"
 }
