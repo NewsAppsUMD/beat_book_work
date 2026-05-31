@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "entry_count": 17,
+  "entry_count": 19,
   "entries": [
     {
       "title": "Person found dead in garbage container in Austin",
@@ -171,7 +171,27 @@
       "author": "Sun-Times Wire",
       "id": "https://chicago.suntimes.com/transportation/2026/05/31/tollway-worker-killed-two-hurt-i-294",
       "tags": []
+    },
+    {
+      "title": "Orland Park aquatic center closes after 2 E. coli infections",
+      "link": "https://chicago.suntimes.com/health/2026/05/31/e-coli-infection-orland-park-aquatic-center",
+      "published": "2026-05-31T13:08:34.669-05:00",
+      "published_parsed": "2026-05-31T18:08:34",
+      "summary": "<img alt=\"Centennial Park Aquatic Center in Orland Park has closed after two E. coli infections were tied to the facility. \" src=\"https://cst.brightspotcdn.com/dims4/default/13ce2d9/2147483647/strip/true/crop/3000x2007+0+0/resize/840x562!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2Faa%2F9eee5abf48998391a3c4b85e6c3c%2Ftin-orpkstreets-p14.jpg\" />\n        \n        \n            &lt;p&gt;Centennial Park Aquatic Center in southwest suburban Orland Park has temporarily closed after two people developed E. coli infections linked to the facility.&lt;/p&gt;&lt;p&gt;Initial water sample tests came back \"normal\" but the two infections prompted a \"precautionary closure\" while more testing is done, according to Orland Park Recreation and Parks, which runs the center.&lt;/p&gt;&lt;p&gt;The aquatic center remained closed Sunday while village staff conducted more tests at the facility, the department said in a social media post Saturday evening. The center will stay closed until the site is cleared to reopen.&lt;/p&gt;&lt;p&gt;E. coli is often found in recreational waters. The bacteria can cause mild to severe illness. Symptoms include diarrhea, stomach pain, nausea, vomiting and fever.&lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/health/2026/05/31/e-coli-infection-orland-park-aquatic-center",
+      "tags": []
+    },
+    {
+      "title": "Man stabbed near Rate Field during attempted robbery",
+      "link": "https://chicago.suntimes.com/crime/2026/05/31/stabbing-robbery-rate-field-red-line",
+      "published": "2026-05-31T10:22:28.206-05:00",
+      "published_parsed": "2026-05-31T15:22:28",
+      "summary": "<img alt=\"Guaranteed Rate Field.\" src=\"https://cst.brightspotcdn.com/dims4/default/9a044e8/2147483647/strip/true/crop/6720x4480+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F1c%2F11%2F539f3ce80ab3e111913963415214%2Fguaranteed-rate-field-wbez.jpg\" />\n        \n        \n            &lt;p&gt;A man was stabbed during an attempted robbery early Sunday near Rate Field and the 35th Street Red Line station, Chicago police said. &lt;/p&gt;&lt;p&gt;The man, 39, was in the 3500 block of South State Street around midnight when a group approached him and demanded his belongings, police said in a statement.&lt;/p&gt;&lt;p&gt;A woman then pulled out a sharp object and stabbed him in the lower back and chest, according to police. The group ran off without the victim's things. He was taken to the University of Chicago Medical Center in good condition.&lt;/p&gt;&lt;p&gt;No other injuries were reported and no one has been arrested, police said. &lt;/p&gt;&lt;p&gt;The White Sox played the Detroit Tigers earlier Saturday at Rate Field. &lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/05/31/stabbing-robbery-rate-field-red-line",
+      "tags": []
     }
   ],
-  "last_updated": "2026-05-31T15:28:24.261433"
+  "last_updated": "2026-05-31T18:23:39.708392"
 }
