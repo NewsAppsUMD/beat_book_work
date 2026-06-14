@@ -36,11 +36,16 @@ jobs:
         run: |
           cd notus
           uv run rss_parser.py
+
+      - name: Run Mountain State Spotlight RSS parser
+        run: |
+          cd mountain_state
+          uv run rss_parser.py
       
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add chicago-public-media/data/ notus/data/
+          git add chicago-public-media/data/ notus/data/ mountain_state/data/ mountain_state/rss_parser.py
           git diff --staged --quiet || git commit -m "Update RSS feed data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push
