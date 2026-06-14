@@ -27,15 +27,20 @@ jobs:
         with:
           python-version: '3.12'
       
-      - name: Run RSS parser
+      - name: Run Chicago Public Media RSS parser
         run: |
           cd chicago-public-media
+          uv run rss_parser.py
+
+      - name: Run Notus RSS parser
+        run: |
+          cd notus
           uv run rss_parser.py
       
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add chicago-public-media/data/
+          git add chicago-public-media/data/ notus/data/
           git diff --staged --quiet || git commit -m "Update RSS feed data - $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
           git push
