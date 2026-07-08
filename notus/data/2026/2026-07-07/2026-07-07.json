@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "entry_count": 14,
+  "entry_count": 15,
   "entries": [
     {
       "title": "RFK Jr. Is Preparing to Reshape Another Key Health Panel",
@@ -155,7 +155,18 @@
       "author": "Angie Orellana Hernandez",
       "id": "https://www.notus.org/immigration/administration-sued-sharing-asylum-records-iran",
       "tags": []
+    },
+    {
+      "title": "Judge Voids a 'Staggering' DOJ Bid for Georgia Election Workers' Personal Data",
+      "link": "https://www.notus.org/courts/doj-subpoena-georgia-election-workers-blocked",
+      "published": "Tue, 07 Jul 2026 22:45:03 GMT",
+      "published_parsed": "2026-07-07T22:45:03",
+      "summary": "U.S. District Judge William Ray, a Trump appointee, said the data in question would not lead to “any viable charge.”",
+      "content": "<figure><img alt=\"Georgia Election Investigation\" src=\"https://static.notus.org/dims4/default/47a22e7/2147483647/strip/false/crop/3936x2624+0+4/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Faa%2F16%2Fec72398e45e6852f841d48a2a2d7%2Fap26029046860571.jpg\" /><figcaption>Armed FBI agents raided a Fulton County election center in January, seizing over 600 boxes of records — documents the agency was allowed to retain despite flaws in their execution of the search. <span>Mike Stewart/AP</span></figcaption></figure>A federal judge ruled Tuesday that the Justice Department cannot collect personal information about people who worked during the 2020 election in Georgia's most populous county — dealing yet another legal blow to the agency’s efforts to investigate baseless claims of voter fraud.<br /><br />In April, DOJ prosecutors directed a federal grand jury to subpoena Fulton County — a Democratic stronghold and frequent target of President Donald Trump’s ire — in tandem with a <a href=\"https://www.justice.gov/opa/pr/justice-department-sues-four-additional-states-and-one-locality-failure-comply-federal\"><u>wider attempt</u></a> to force four other states to produce statewide voter registration lists. The agency sought the names, address and telephone numbers for thousands of workers across various functions on Election Day, from poll workers to bus drivers who managed mobile voting sites.<br /><br />That request was “staggering,” U.S. District Judge William Ray <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.gand.359862/gov.uscourts.gand.359862.37.0_3.pdf\"><u>wrote</u></a>.<br /><br />The DOJ subpoenaed the records well after the statute of limitations for any 2020 election-adjacent crime had expired — the court’s analysis could have been different had the agency filed “expeditiously” after Trump’s first year back in office, Ray wrote.<br /><br />Ray, a Trump appointee, said while his ruling to quash the subpoena comes during “hyper-political times,” the Justice Department does not have the ability to issue such an “unreasonable” request — particularly because the data in question would not lead to “any viable charge.”<br /><br />“Thus, everyone, whether you support the President or you do not, or whether you believe the 2020 Election was fair or believe that it was not, should be concerned about the DOJ’s ability to utilize the power of the Grand Jury to appropriate your private information without a legitimate purpose,” the ruling read.<br /><br />The Justice Department often works with grand juries on criminal investigations, but “that does not give the DOJ the right to use the Grand Jury to do whatever the DOJ wants,” Ray wrote. The subpoena had directed the county to provide records to an out-of-state DOJ lawyer or the FBI agent who moved to seize the county’s 2020 ballots earlier this year.<br /><br />Trump has vowed to investigate the 2020 election since losing to former President Joe Biden, moving aggressively to do so during his return to office. In December, the DOJ <a href=\"https://www.justice.gov/opa/pr/justice-department-sues-four-additional-states-and-one-locality-failure-comply-federal\"><u>sued</u></a> Fulton County for failing to produce records. The following month, armed FBI agents <a href=\"https://www.notus.org/courts/janice-johnston-georgia-fulton-county-fbi-raid-2020-election\"><u>raided</u></a> the Fulton County Election Hub and Operation Center located on the outskirts of Atlanta, seizing over 600 boxes of records — documents the agency was allowed to retain despite flaws in their execution of the search, a federal judge ruled in May.",
+      "author": "Angie Orellana Hernandez",
+      "id": "https://www.notus.org/courts/doj-subpoena-georgia-election-workers-blocked",
+      "tags": []
     }
   ],
-  "last_updated": "2026-07-07T21:29:39.707291"
+  "last_updated": "2026-07-08T00:27:38.862366"
 }
