@@ -12,3 +12,4 @@ dependencies = [
 
 [project.scripts]
 scrape = "scraper:main"
+daily-scrape = "daily_scraper:main"

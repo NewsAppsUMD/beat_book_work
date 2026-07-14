@@ -13,6 +13,7 @@ from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlparse
 
+from bs4 import BeautifulSoup
 import feedparser
 import requests
 from dateutil import parser as date_parser
@@ -95,8 +96,20 @@ def format_published_date(parsed_date) -> str:
 
 
 def fetch_full_content(article_url: str) -> tuple[str, str]:
-    """Fetch full article content using newspaper4k."""
+    """Fetch full article content using BeautifulSoup to extract articleContainer."""
     try:
+        response = SESSION.get(article_url, timeout=30)
+        response.raise_for_status()
+        soup = BeautifulSoup(response.content, 'html.parser')
+
+        # Find the article content in articleContainer div
+        article_container = soup.find('div', class_='articleContainer')
+        if article_container:
+            paragraphs = article_container.find_all('p')
+            text = '\n\n'.join([p.get_text().strip() for p in paragraphs if p.get_text().strip()])
+            return text, response.text
+
+        # Fallback to newspaper4k if articleContainer not found
         article = Article(article_url)
         article.download()
         article.parse()
@@ -106,7 +119,7 @@ def fetch_full_content(article_url: str) -> tuple[str, str]:
         return "", ""
 
 
-def create_entry_json(article_data: dict, content_html: str) -> dict:
+def create_entry_json(article_data: dict, content_text: str) -> dict:
     """Create JSON entry matching notus schema."""
     return {
         "title": article_data["title"],
@@ -114,7 +127,7 @@ def create_entry_json(article_data: dict, content_html: str) -> dict:
         "published": article_data["published"],
         "published_parsed": article_data["published_parsed"],
         "summary": article_data["summary"],
-        "content": content_html,
+        "content": content_text,
         "author": article_data["author"],
         "id": article_data["id"],
         "tags": article_data.get("categories", []),
@@ -138,12 +151,12 @@ def scrape_category(category_slug: str, feed_url: str, max_pages: int = 5) -> in
         # Fetch full content
         content_text, content_html = fetch_full_content(article_data["link"])
 
-        if not content_html:
+        if not content_text:
             # Fallback: use summary as content if newspaper fails
-            content_html = article_data.get("summary", "")
+            content_text = article_data.get("summary", "")
 
         # Create entry JSON
-        entry = create_entry_json(article_data, content_html)
+        entry = create_entry_json(article_data, content_text)
 
         # Generate filename from URL
         url_path = urlparse(article_data["link"]).path
