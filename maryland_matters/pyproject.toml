@@ -1,0 +1,14 @@
+[project]
+name = "maryland-matters"
+version = "0.1.0"
+description = "Scraper for Maryland Matters stories using RSS feeds"
+requires-python = ">=3.12"
+dependencies = [
+    "feedparser>=6.0.12",
+    "newspaper4k>=0.9.4.1",
+    "python-dateutil>=2.9.0.post0",
+    "requests>=2.32.5",
+]
+
+[project.scripts]
+scrape = "scraper:main"
