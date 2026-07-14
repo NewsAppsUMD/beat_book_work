@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 .claude/
+.worktrees/
 
 # Distribution / packaging
 .Python
