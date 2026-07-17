@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "entry_count": 9,
+  "entry_count": 10,
   "entries": [
     {
       "title": "Trump Demands New Probes and Charges Based on Info That’s Anything but New",
@@ -100,7 +100,18 @@
       "author": "Evan McMorris-Santoro, Jasmine Wright, Manuela Silva",
       "id": "https://www.notus.org/newsletters/ballot-bluster",
       "tags": []
+    },
+    {
+      "title": "Cyclosporiasis Outbreak Traced to Taco Bell Lettuce, CDC Says",
+      "link": "https://www.notus.org/health-science/cyclosporiasis-outbreak-traced-taco-bell-lettuce-cdc",
+      "published": "Fri, 17 Jul 2026 15:22:50 GMT",
+      "published_parsed": "2026-07-17T15:22:50",
+      "summary": "The illness giving thousands of American explosive diarrhea came from shredded iceberg lettuce.",
+      "content": "<figure><img alt=\"Cyclospora Taco Bell \" src=\"https://static.notus.org/dims4/default/9bcb026/2147483647/strip/false/crop/5793x3862+0+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fd8%2Fa8%2F9c06d9d7479fac4850f103acb2f4%2Fap26195712516148.jpg\" /><figcaption>Contaminated lettuce was served at Taco Bell locations in Indiana, Kentucky, Michigan, Ohio and West Virginia. <span>Paul Sancya/AP Photo/Paul Sancya</span></figcaption></figure>The Crunchwrap is not so supreme anymore.<br /><br />The ongoing cyclosporiasis outbreak has been traced back to shredded iceberg lettuce served at Taco Bell locations in five states, the Centers for Disease Control and Prevention announced late Thursday.<br /><br />The agency said the lettuce was served at Taco Bell locations in Indiana, Kentucky, Michigan, Ohio and West Virginia. The announcement did not name the lettuce supplier, referring to it only as “a single supplier of iceberg lettuce from Mexico.”<br /><br />The <a href=\"https://www.washingtonpost.com/health/2026/07/16/lettuce-supplier-is-potential-source-cyclosporiasis-outbreak-investigators-say/\"><u>Washington Post</u></a> and <a href=\"https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html\"><u>New York Times</u></a> reported Thursday that the contaminated lettuce came from Taylor Farms, a produce behemoth that also offers grocery store bagged-salad mixes and other fresh food products.<br /><br />Taco Bell and Taylor Farms did not immediately respond to requests for comment.<br /><br />Cyclosporiasis is caused by cyclospora, a parasite that can live on fresh foods. It can cause severe gastrointestinal illness, but is not fatal.<br /><br />The CDC said more than 1,600 sick people reported eating at Taco Bell. Nearly 7,000 confirmed or suspected cases of cyclosporiasis have been <a href=\"https://www.cdc.gov/han/php/notices/han00531.html\"><u>reported</u></a> to the CDC since May 1, a significant increase compared to previous years.<br /><br />The CDC also said Taco Bell is working to stop using this lettuce, and the FDA is “working directly with the supplier to determine if contaminated shredded iceberg lettuce went to other places.”<br /><br />Health experts have <a href=\"https://www.notus.org/health-science/trump-administration-cyclosporiasis-outbreak-response\"><u>scrutinized</u></a> the federal government’s response to the outbreak and called attention to historic funding cuts to food-safety initiatives. One CDC program that tracked cyclospora, FoodNet, was cut back last year to no longer include the parasite.<br /><br />An HHS spokesperson said via email, “CDC continues to collect these data on cyclospora through surveillance systems other than FoodNet, and reporting is conducted through those systems. Funding for state foodborne disease activities has remained stable, with approximately $33 million awarded annually.”",
+      "author": "Margaret Manto",
+      "id": "https://www.notus.org/health-science/cyclosporiasis-outbreak-traced-taco-bell-lettuce-cdc",
+      "tags": []
     }
   ],
-  "last_updated": "2026-07-17T12:25:36.481375"
+  "last_updated": "2026-07-17T15:27:17.234655"
 }
