@@ -5,6 +5,12 @@ resolution-markers = [
     "python_full_version >= '3.14'",
 ]
 
+[manifest]
+members = [
+    "beat-book-work",
+    "star-tribune",
+]
+
 [[package]]
 name = "annotated-types"
 version = "0.7.0"
@@ -1169,6 +1175,17 @@ sdist = { url = "https://files.pythonhosted.org/packages/b3/e3/6b1106349e2576c18
 wheels = [
     { url = "https://files.pythonhosted.org/packages/51/33/7e01d2f6b8c778529dfae9045c4f46b33ba145c3d401fa95b07f599e7403/sqlite_utils-3.39-py3-none-any.whl", hash = "sha256:349c099c0cd60d4ee9139a24d5c9cb64af3906c3e90832fcbbd74da49333374d", size = 68451 },
 ]
+
+[[package]]
+name = "star-tribune"
+version = "0.1.0"
+source = { virtual = "star-tribune" }
+dependencies = [
+    { name = "feedparser" },
+]
+
+[package.metadata]
+requires-dist = [{ name = "feedparser", specifier = ">=6.0.12" }]
 
 [[package]]
 name = "tabulate"
