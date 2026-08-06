@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-27",
+  "entry_count": 2,
+  "entries": [
+    {
+      "title": "The Senate Finally Passed a Bill to Fund Most of DHS — Except for ICE",
+      "link": "https://www.notus.org/senate/dhs-funding-bill-ice-deal",
+      "published": "Fri, 27 Mar 2026 09:20:46 GMT",
+      "published_parsed": "2026-03-27T09:20:46.699000+00:00",
+      "summary": "The last-minute deal came together shortly after Trump announced he was directing the department’s secretary to pay TSA agents.",
+      "content": "The Senate early on Friday agreed to fund the vast majority of the Department of Homeland Security, bringing an end to the partial government shutdown that left most of its agencies without funding for more than a month.\n\nNegotiators passed a bill to fund DHS through the end of the fiscal year after days of intense back-and-forth talks. Those discussions took on a new sense of urgency as hours-long security lines became a common occurrence at airports across the country. The bill will still need to pass the House and be signed into law.\n\nThe package does not fund Immigration and Customs Enforcement — the most hotly contested portion of the spending measure — and only funds a part of Customs and Border Protection. It also does not include any of the reforms to ICE that Democrats have sought dating back to January. Spurred by the killings of Alex Pretti and Renee Good in Minneapolis at the hands of immigration agents, Democrats said they would not vote for DHS funding without significant changes at the agency.",
+      "author": "Al Weaver",
+      "id": "https://www.notus.org/senate/dhs-funding-bill-ice-deal",
+      "tags": [
+        "senate"
+      ]
+    },
+    {
+      "title": "DHS Shutdown Continues After House Rejects Senate Deal, Passes Separate Funding Bill",
+      "link": "https://www.notus.org/house/senate-dhs-funding-deal-house-fight",
+      "published": "Fri, 27 Mar 2026 15:59:55 GMT",
+      "published_parsed": "2026-03-27T15:59:55.056000+00:00",
+      "summary": "The standoff over funding the Department of Homeland Security continues after the House and Senate passed competing measures. President Trump announced DHS would pay TSA workers, but it's unclear how that will work and Congress left town for a two-week recess without a resolution.",
+      "content": "The House passed a two-month-long funding patch for the Department of Homeland Security late Friday night after Republican leadership rejected a funding deal the Senate sent over earlier in the day. But the DHS shutdown will continue, as the Senate has already skipped town for a two-week recess.\n\nHouse Republican Conference Chair Lisa McClain told NOTUS Friday morning that the deal the Senate sent over Friday is “garbage” and that the House will not be voting on it.\n\nHouse Speaker Mike Johnson announced the plans Friday afternoon to instead put the 60-day continuing resolution, or “CR,” on the floor that would fund all of DHS including ICE, at current levels.",
+      "author": "Em Luetkemeyer, Reese Gorman, Oriana González, Daniella Diaz",
+      "id": "https://www.notus.org/house/senate-dhs-funding-deal-house-fight",
+      "tags": [
+        "house"
+      ]
+    }
+  ],
+  "last_updated": "2026-08-06T11:49:58.241135"
+}
