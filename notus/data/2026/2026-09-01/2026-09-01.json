@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "entry_count": 8,
+  "entry_count": 9,
   "entries": [
     {
       "title": "Iran War Threatens the Economies of Trump's Gulf Allies",
@@ -89,7 +89,18 @@
       "author": "Noah Ferguson",
       "id": "https://www.notus.org/sports/dmv-high-school-football-players-of-the-week",
       "tags": []
+    },
+    {
+      "title": "Whistleblower Says Secret USPS Plan May Endanger Millions of Mail-in Ballots",
+      "link": "https://www.notus.org/2026-election/whistleblower-secret-usps-plan-endanger-mail-in-ballots",
+      "published": "Tue, 01 Sep 2026 13:37:07 GMT",
+      "published_parsed": "2026-09-01T13:37:07",
+      "summary": "A new portal will “almost certainly have significant operating problems” due to rushed development, the whistleblower said.",
+      "content": "<figure><img alt=\"A United States Postal Service mail collection box.\" src=\"https://static.notus.org/dims4/default/d47ceb2/2147483647/strip/false/crop/8640x5760+0+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2Fe3%2F70a701494ca5952e09813d9285f9%2Funited-states-postal-service-usps-26007110688760.jpg\" /><figcaption>The plan could result in millions of voters either receiving their ballots late, or not at all, ahead of the November midterm elections, the whistleblower report said. (Jenny Kane/AP)</figcaption></figure>An anonymous federal official warned in a whistleblower report released Tuesday that the U.S. Postal Service plans to secretly and unlawfully implement the Trump administration’s <a href=\"https://www.notus.org/policy/postal-officials-ballot-errors\"><u>mail-in ballot restrictions</u></a> through a “rushed” new system that could prevent voters from receiving their ballots.<br /><br />The whistleblower said in a disclosure to Congress that the USPS began working on a new set of untested information technology systems, including the “Federal Ballot Mail Portal,” in June 2026 despite <a href=\"https://www.notus.org/donald-trump/mail-in-ballot-blocked-judge-postal-service\"><u>court-ordered injunctions</u></a> to halt its work, which began following an executive order by President Donald Trump.<br /><br />The report was released Tuesday morning by Sen. Richard Blumenthal (D-Connecticut), the ranking member of the Permanent Subcommittee on Investigations.<br /><br />The portal will “almost certainly have significant operating problems” due to rushed development, the whistleblower said. It may lead to failures in the ballot verification process — which under the new system’s “zero percent failure rate” means that if one single ballot’s bar code in a bulk-mailing of 10,000 ballots fails to properly scan, the entire batch is rejected and sent back to the states.<br /><br />It could result in millions of voters either receiving their ballots late, or not at all, ahead of the November midterm elections, the whistleblower report said.<br /><br />The White House and the USPS did not immediately respond to a request for comment on the whistleblower report Tuesday.<br /><br />“We are crossing the Rubicon of American elections,” said Libby Liu, the chief executive officer of Whistleblower Aid, a nonprofit legal organization that is representing the whistleblower. “This dangerously defective mail-in ballot process could disenfranchise millions of voters, ensnaring ballots in red tape under the guise of solving a non-existent problem. The whistleblower’s service to our nation is warning the public that their ability to vote is in serious jeopardy.”<br /><br /><i>This is a developing story and will be updated.</i>",
+      "author": "Angie Orellana Hernandez",
+      "id": "https://www.notus.org/2026-election/whistleblower-secret-usps-plan-endanger-mail-in-ballots",
+      "tags": []
     }
   ],
-  "last_updated": "2026-09-01T12:09:54.504780"
+  "last_updated": "2026-09-01T15:06:19.462313"
 }
