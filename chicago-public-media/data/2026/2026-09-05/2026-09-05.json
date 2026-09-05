@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "entry_count": 25,
+  "entry_count": 26,
   "entries": [
     {
       "title": "Boy, 13, critically wounded after being shot by 9-year-old in Fuller Park",
@@ -251,7 +251,17 @@
       "author": "Chicago Sun-Times and WBEZ staff",
       "id": "https://chicago.suntimes.com/chicago-history/2026/09/05/how-september-11-2001-attacks-change-your-life-share-submit-stories",
       "tags": []
+    },
+    {
+      "title": "Man fatally shot after argument in Chicago Lawn",
+      "link": "https://chicago.suntimes.com/crime/2026/09/05/man-fatally-shot-after-argument-in-chicago-lawn",
+      "published": "2026-09-05T12:28:22.574-05:00",
+      "published_parsed": "2026-09-05T17:28:22",
+      "summary": "<img alt=\"The man, 28, was in an argument with another person in the 7300 block of South Kedzie Avenue at 11:15 p.m. when the other person shot him, police said. The man took himself to Holy Cross Hospital where he later died.\" src=\"https://cst.brightspotcdn.com/dims4/default/73f8b02/2147483647/strip/true/crop/1024x630+0+0/resize/840x517!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F06%2F62%2Fa09c0287406c78659d9f09eac2b7%2Ftape.jpg\" />\n        \n        \n            &lt;p&gt;A man was fatally shot in Chicago Lawn Friday night, according to Chicago police.&lt;/p&gt;&lt;p&gt;The man, 28, was in an argument with another person in the 7300 block of South Kedzie Avenue at 11:15 p.m. when the other person shot him, police said. The man took himself to Holy Cross Hospital where he later died.&lt;/p&gt;&lt;p&gt;No one is in custody.&lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/09/05/man-fatally-shot-after-argument-in-chicago-lawn",
+      "tags": []
     }
   ],
-  "last_updated": "2026-09-05T15:05:16.567442"
+  "last_updated": "2026-09-05T18:06:54.708600"
 }
