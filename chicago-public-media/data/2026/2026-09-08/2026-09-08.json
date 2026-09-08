@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "entry_count": 1,
+  "entry_count": 3,
   "entries": [
     {
       "title": "6 killed, 25 hurt in Labor Day weekend gun violence",
@@ -11,7 +11,27 @@
       "author": "Kyra Senese",
       "id": "https://chicago.suntimes.com/news/2026/09/07/labor-day-weekend-shooting",
       "tags": []
+    },
+    {
+      "title": "2 boys critically wounded in Grand Boulevard shooting",
+      "link": "https://chicago.suntimes.com/crime/2026/09/07/2-boys-critically-wounded-in-grand-boulevard-shooting",
+      "published": "2026-09-07T21:37:32.004-05:00",
+      "published_parsed": "2026-09-08T02:37:32",
+      "summary": "<img alt=\"Officers found two boys suffering from gunshot wounds Monday afternoon along the 4100 block of South Prairie Avenue, police said.\" src=\"https://cst.brightspotcdn.com/dims4/default/9dd7f4f/2147483647/strip/true/crop/1088x630+0+0/resize/840x486!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2Fd0%2F754f2ccd5992c7e0d3de094cb29a%2Fpolice.jpeg\" />\n        \n        \n            &lt;p&gt;Two boys, aged 14 and 17, were shot and critically injured Monday afternoon in Grand Boulevard, Chicago police said.&lt;/p&gt;&lt;p&gt;Officers responded to the 4100 block of South Prairie Avenue at about 3:49 p.m. and found the boys suffering from gunshot wounds, police said.&lt;/p&gt;&lt;p&gt;The 14-year-old boy suffered a gunshot wound to the shoulder and was taken to Comer Children’s Hospital in critical condition, according to police.&lt;/p&gt;&lt;p&gt;The 17-year-old boy was shot in the head and was taken to the University of Chicago Medical Center initially in critical condition, police said.&lt;/p&gt;&lt;p&gt;Area One detectives are investigating the shooting.&lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/09/07/2-boys-critically-wounded-in-grand-boulevard-shooting",
+      "tags": []
+    },
+    {
+      "title": "Police response blocks Logan Square streets for several hours",
+      "link": "https://chicago.suntimes.com/logan-square/2026/09/07/police-response-blocks-logan-square-streets-for-several-hours",
+      "published": "2026-09-07T20:37:09.469-05:00",
+      "published_parsed": "2026-09-08T01:37:09",
+      "summary": "<img alt=\"Chicago Police officers work the scene in Logan Square Monday. A large police presence that included armored vehicles closed streets in the neighborhood from late Monday morning into the evening.\" src=\"https://cst.brightspotcdn.com/dims4/default/c8d9432/2147483647/strip/true/crop/7008x4672+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb3%2Fd3%2F8026a555496e9f5d1cb116481d79%2Fwestsubrally-260729-6.jpg\" />\n        \n        \n            &lt;p&gt;A large police presence that included armored vehicles closed streets in Logan Square from late Monday morning into the evening.&lt;/p&gt;&lt;p&gt;Officers responded to a call for service near the intersection of North Kimball and West Wrightwood Avenues at approximately 11:45 a.m., police said.&lt;/p&gt;&lt;p&gt;Police did not provide details about the call for service but said the incident was ongoing as of 8 p.m.&lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/logan-square/2026/09/07/police-response-blocks-logan-square-streets-for-several-hours",
+      "tags": []
     }
   ],
-  "last_updated": "2026-09-08T00:17:44.140023"
+  "last_updated": "2026-09-08T03:07:38.590052"
 }
