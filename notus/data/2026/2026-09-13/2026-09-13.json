@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "entry_count": 8,
+  "entry_count": 9,
   "entries": [
     {
       "title": "Maryland 38, UConn 14: Game Recap",
@@ -89,7 +89,18 @@
       "author": "Jenna Monnin",
       "id": "https://washingtonsun.com/trump-white-house/trump-defends-ai-despite-mounting-safety-concerns",
       "tags": []
+    },
+    {
+      "title": "Nationals 6, Angels 5: Game Recap",
+      "link": "https://washingtonsun.com/sports/nationals-game-recape-sept-13-2026",
+      "published": "Sun, 13 Sep 2026 21:22:08 GMT",
+      "published_parsed": "2026-09-13T21:22:08",
+      "summary": "Washington rallies late to complete a sweep of Los Angeles.",
+      "content": "<figure><img alt=\"Dylan Crews AP - 26256740148526\" src=\"https://static.washingtonsun.com/dims4/default/1aaf6ae/2147483647/strip/false/crop/6407x4271+0+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F42%2F39%2Ffdb4321d42c2a3fb6f7313ede5da%2Fap26256740148526.jpg\" /><figcaption>Dylan Crews had an RBI in the win.  <span>(Nick Wass/AP)</span></figcaption></figure>Daylen Lile tripled to key a four-run rally in the eighth inning, Jacob Young and Dylan Crews added RBIs and the Washington Nationals beat the Los Angeles Angels 6-5 on Sunday to complete a three-game sweep.<br /><br />Los Angeles dropped to 56-93 and must win at least seven of its last 13 games to avoid its first 100-loss season.<br /><br />Washington improved to 3-61 when trailing after seven innings, sweeping the Angels for the first time.<br /><br />Erik Tolman (1-1) threw a run-scoring wild pitch and Moisés Ballesteros hit a sacrifice fly that put Los Angeles ahead 4-2 in the eighth.<br /><br />Yohandy Morales singled off Luke Murphy (0-3) starting the eighth and Lile triple and pinch-hitter Jorbit Vivas hit an RBI single that tied the score 4-4. Young hit a go-ahead double that chased Murphy and Crews hit a two-out RBI single.<br /><br />Jack Sinclair got his first professional save, allowing Christian Moore's run-scoring groundout.<br /><br />Moisés Ballesteros and Zach Neto hit solo homers for the Angels. Neto matched his career best of 26 homers.",
+      "author": "Associated Press",
+      "id": "https://washingtonsun.com/sports/nationals-game-recape-sept-13-2026",
+      "tags": []
     }
   ],
-  "last_updated": "2026-09-13T21:05:14.439690"
+  "last_updated": "2026-09-14T00:19:26.630187"
 }
