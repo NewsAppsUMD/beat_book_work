@@ -1,6 +1,6 @@
 {
   "date": "2026-10-10",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "title": "Everything You Need to Know for Commanders-Giants",
@@ -23,7 +23,18 @@
       "author": "Kyle Chouinard",
       "id": "https://www.washingtonsun.com/influence/political-campaign-ads-football-broadcast",
       "tags": []
+    },
+    {
+      "title": "Federal Judge Blocks DOJ From Accessing State Voter Rolls",
+      "link": "https://www.washingtonsun.com/legal/federal-judge-blocks-doj-from-accessing-state-voter-rolls",
+      "published": "Sat, 10 Oct 2026 17:06:13 GMT",
+      "published_parsed": "2026-10-10T17:06:13",
+      "summary": "The ruling overrides the dozens of DOJ lawsuits meant to force states to turn over their logs in hope of rooting out noncitizen voters.",
+      "content": "<figure><img alt=\"DOJ logo \" src=\"https://static.washingtonsun.com/dims4/default/039570d/2147483647/strip/false/crop/3757x2505+0+4/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F65%2Fac%2F02da600646e9bc6ac6d81e74f877%2Fap26124591539241.jpg\" /><figcaption>The department sought information to find people who could have unlawfully cast a ballot, a sweep of information that includes voters’ full names, dates of birth, residential addresses, driver’s license numbers or partial Social Security numbers. (Julia Demaree Nikhinson/AP)</figcaption></figure>A federal judge has blocked the Justice Department from accessing state voter rolls to find noncitizen voters and bar them from casting ballots.<br /><br />Shortly after President Donald Trump authorized the attorney general to contact states for information on suspected election law violations in <a href=\"https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/\"><u>March 2025</u></a>, the DOJ began requesting complete and unredacted copies of states’ computerized voter registration lists. The department has filed dozens of lawsuits in attempts to compel enforcement — all of which have been blocked or dismissed by other district courts so far, with a handful of decisions outstanding.<br /><br />In a <a href=\"https://cases.justia.com/federal/district-courts/district-of-columbia/dcdce/1%3A2026cv01352/291580/51/0.pdf\"><u>decision</u></a> late Friday, U.S. District Judge Sparkle L. Sooknanan said the department was violating several federal laws that govern how agencies collect and control personal data, writing that the policy “flies in the face of duly enacted laws designed to protect Americans.”<br /><br />The department sought information to find people who could have unlawfully cast a ballot, a sweep of information that includes voters’ full names, dates of birth, residential addresses, driver’s license numbers or partial Social Security numbers.<br /><br />The DOJ contacted 49 states and D.C., asking state officials to agree to “clean” their logs within 45 days. At least 18 states turned over their rolls, providing information that the DOJ then shared with the Department of Homeland Security to verify voters’ immigration and citizenship status — assuring states that the data would be treated in compliance with the federal Privacy Act.<br /><br />Sooknanan’s ruling means noncooperative states that sued the government after the directive, as well as the 18 that did comply, no longer have to share their data with federal agencies. DHS and the DOJ can no longer use federal databases to cross-reference rolls they already obtained from the compliant states.<br /><br />“The challenged policy represents the federal government’s attempt to decide who gets to vote. But Congress has left that authority where our Constitution has always placed it: with the states,” Sooknanan, a Biden appointee, wrote.<br /><br />The judge’s decision doesn’t bar the federal government from taking lawful steps to support states’ efforts to maintain accurate voter rolls, nor does it prevent states from maintaining their own voter rolls.<br /><br />The federal government is expected to seek a stay pending a wider appeal. The DOJ told The Washington Sun it was reviewing the ruling.<br /><br />The Supreme Court in September <a href=\"https://www.washingtonsun.com/courts/supreme-court-voters-database\"><u>cleared the way</u></a> for states to use the federal government’s overhauled immigration database to purge noncitizens on their own before the midterms, siding with DHS in an unsigned decision after Sooknanan had ordered the system shut down in June. That modified database contained information, including Social Security numbers, in what Sooknanan ruled was also a violation of privacy laws.<br /><br />The September ruling could come up in a future government appeal of Friday’s ruling.",
+      "author": "Michelle Del Rey",
+      "id": "https://www.washingtonsun.com/legal/federal-judge-blocks-doj-from-accessing-state-voter-rolls",
+      "tags": []
     }
   ],
-  "last_updated": "2026-10-10T15:06:19.163548"
+  "last_updated": "2026-10-10T18:07:48.046376"
 }
