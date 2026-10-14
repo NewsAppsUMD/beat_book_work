@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "title": "Trump Stumps for Alaska Republicans and Hands Out Two Pardons",
@@ -23,7 +23,18 @@
       "author": "Hunter Riggall",
       "id": "https://www.washingtonsun.com/campaigns/jon-ossoff-full-term-pledge",
       "tags": []
+    },
+    {
+      "title": "Judge Extends Order Blocking Trump From Banning CNN, MS NOW and Politico",
+      "link": "https://www.washingtonsun.com/media/judge-extends-injunction-against-trump-press-ban",
+      "published": "Wed, 14 Oct 2026 03:26:53 GMT",
+      "published_parsed": "2026-10-14T03:26:53",
+      "summary": "The judge said the news outlets are likely to succeed in their constitutional free speech and due process claims.",
+      "content": "<figure><img alt=\"Trump\" src=\"https://static.washingtonsun.com/dims4/default/3db42fd/2147483647/strip/false/crop/1024x683+0+1/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4b%2Fbd%2Facdf083a407fba902a6b089a9843%2Fap26286619987538.jpg\" /><figcaption>The Trump administration has claimed national security reasons for restricting the outlets' access. (Julia Demaree Nikhinson/AP)</figcaption></figure><i>By Hallie Golden and Michael Kunzelman</i><br /><br />A federal judge on Tuesday extended an order blocking the Trump administration from <a href=\"https://apnews.com/article/trump-networks-media-ban-cnn-6459d3612a0a845a0cf1a093acafbe6f\">banning reporters</a> for three news outlets from the White House, as the extraordinary case pitting the president against the media makes its way through the legal system.<br /><br />U.S. District Judge Timothy Kelly ruled that CNN, MS NOW and Politico are likely to succeed on their constitutional free speech and due process claims.<br /><br />“Still,” he added, “no one should interpret the Court’s decision to suggest that President Trump’s concerns about accuracy and fairness in the media’s reporting are unfounded, or that the government is powerless when its true aim is to protect national security when classified information is unlawfully disclosed.”<br /><br />Kelly, who was nominated to the bench by Republican President Donald Trump, <a href=\"https://apnews.com/article/trump-media-ban-judge-ruling-cnn-msnow-politico-21605e397fe48f178a4afa037e732c6d\">previously ordered</a> the White House to restore the reporters’ “hard pass” press credentials while he weighed their claims. With that temporary order due to expire on Tuesday, the judge issued a preliminary injunction that preserves the status quo while the case is pending<br />",
+      "author": "The Associated Press",
+      "id": "https://www.washingtonsun.com/media/judge-extends-injunction-against-trump-press-ban",
+      "tags": []
     }
   ],
-  "last_updated": "2026-10-14T03:07:32.989308"
+  "last_updated": "2026-10-14T06:10:34.342719"
 }
