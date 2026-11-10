@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "entry_count": 5,
+  "entry_count": 6,
   "entries": [
     {
       "title": "Congressional Probe Finds Rep. Gooden May Have Misused Taxpayer Money",
@@ -56,7 +56,18 @@
       "author": "Joe Gould, Kyle Chouinard",
       "id": "https://www.washingtonsun.com/defense/hegseth-vows-keep-job-impeachment",
       "tags": []
+    },
+    {
+      "title": "Federal Judge Dismisses a DOJ Lawsuit Challenging Montgomery County’s Gun Ban",
+      "link": "https://www.washingtonsun.com/metro/doj-maryland-gun-ban-lawsuit-dismissed",
+      "published": "Tue, 10 Nov 2026 17:40:47 GMT",
+      "published_parsed": "2026-11-10T17:40:47",
+      "summary": "The lawsuit argued the ban violated the Second Amendment.",
+      "content": "<figure><img alt=\"U.S. District Courthouse Greenbelt\" src=\"https://static.washingtonsun.com/dims4/default/ef11c32/2147483647/strip/false/crop/6016x4011+0+3/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fac%2F3f%2F0f58a7954a94b37d959e52add2be%2Fap26177592131402.jpg\" /><figcaption>The law still faces legal challenges. (Cliff Owen/AP)</figcaption></figure>A federal judge on Monday dismissed a Trump administration <a href=\"https://www.courtlistener.com/docket/73711844/1/united-states-v-montgomery-county-maryland/\"><u>lawsuit</u></a> that challenged a Montgomery County law banning guns within 100 yards of “places of public assembly,” such as schools and places of worship.<br /><br />The Justice Department filed the lawsuit Aug. 3 in the U.S. District Court of Maryland, just a week after the law went into effect, arguing the <a href=\"https://apps.montgomerycountymd.gov/ccllims/DownloadFilePage?FileName=2911_1_26898_Bill_23-26E_Enacted_20260721.pdf\"><u>local restrictions</u></a> violated the Second Amendment right to bear arms. The DOJ brought the complaint under the authority of a 1994 law allowing the U.S. attorney general to sue local enforcement agencies for a “pattern or practice” that violates people's rights.<br /><br />U.S. District Judge Theodore Chuang <a href=\"https://www.courtlistener.com/docket/73711844/39/united-states-v-montgomery-county-maryland/\"><u>ruled</u></a> that law did not give the administration the authority to challenge the local statute, writing that “the federal government should not have unfettered authority to intrude on the actions of state and local governments.”<br /><br />Chuang, an Obama appointee, dismissed the lawsuit with prejudice, meaning it cannot be refiled. The Justice Department can appeal the decision.<br /><br />Montgomery County Executive Marc Elrich said in a <a href=\"https://www.montgomerycountymd.gov/news/statement-montgomery-county-executive-marc-elrich-federal-court-decision-regarding-expedited-bill-23-26\"><u>statement</u></a> that the ruling affirms the county government’s responsibility and authority to safeguard its community. He said the county’s actions were grounded in the law and met the obligation of protecting the public.<br /><br />“We should not have to choose between respecting constitutional rights and pursuing thoughtful, lawful measures to prevent gun violence,” he said.<br /><br />The law still faces legal challenges. Rabbi Menashe Shapiro of the Silver Spring Jewish Center filed a separate <a href=\"https://www.courtlistener.com/docket/73693668/1/silver-spring-jewish-center-v-montgomery-county-maryland/\"><u>lawsuit</u></a> in July, alleging the statute violates his rights to religious freedom and makes it harder for Jewish synagogues to protect their congregations.<br /><br />“This ban could not come at a worse time for Montgomery County’s Jewish community,” the complaint said, listing several prominent examples of violence against Jewish people. “Montgomery County seeks to deprive Jews of their ability to defend themselves at their most Jewish moment: praying in synagogues. Jewish law requires Jews to defend themselves when necessary. Montgomery County would rather declare open season.”<br /><br />Legal proceedings in the Silver Spring Jewish Center case are ongoing.",
+      "author": "Kendall Staton",
+      "id": "https://www.washingtonsun.com/metro/doj-maryland-gun-ban-lawsuit-dismissed",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-10T15:04:38.194369"
+  "last_updated": "2026-11-10T18:04:01.931150"
 }
