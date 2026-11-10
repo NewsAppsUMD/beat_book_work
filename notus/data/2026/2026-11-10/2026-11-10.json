@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "title": "Congressional Probe Finds Rep. Gooden May Have Misused Taxpayer Money",
@@ -23,7 +23,18 @@
       "author": "Reese Gorman, Chase Pellegrini de Paur, Hunter Riggall",
       "id": "https://www.washingtonsun.com/congress/haley-stevens-republicans-cloakroom-voting",
       "tags": []
+    },
+    {
+      "title": "Federal Prosecutors in Western Washington State Will Let Many ICE Detention Cases Go Unopposed",
+      "link": "https://www.washingtonsun.com/legal/us-attorney-western-washington-state-immigration-detention-cases-unopposed",
+      "published": "Tue, 10 Nov 2026 03:25:42 GMT",
+      "published_parsed": "2026-11-10T03:25:42",
+      "summary": "The U.S. attorney’s office says it can’t keep up with the surge in immigration detention challenges.",
+      "content": "<figure><img alt=\"No Kings Protest Seattle\" src=\"https://static.washingtonsun.com/dims4/default/6511110/2147483647/strip/false/crop/1023x682+1+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F0b%2F00%2F502bddd64a86893afca96865ccb3%2Fap26290856955034-1.jpg\" /><figcaption>Most immigration habeas petitions were handed in western Washington state last year. (Lindsey Wasson/AP)</figcaption></figure>Federal prosecutors in western Washington state say they are stretched too thin to fight every immigrant seeking release from detention, meaning many detainees will get a court ruling without facing government opposition.<br /><br />Charles Neil Floyd, the acting U.S. attorney for the Western District of Washington, said that his office will begin declining to appear in court to fight many detention challenges filed against U.S. Immigration and Customs Enforcement, he wrote in a <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.wawd.370859/gov.uscourts.wawd.370859.4.1.pdf\"><u>recent letter</u></a> to Chief U.S. District Judge David Estudillo.<br /><br />“The large volumes of petitions that are being filed, often copying from other petitions, has severely impacted the government’s ability to respond,” Floyd wrote in the Oct. 26 letter. “Thus, going forward, in order to conserve resources, there will be many habeas cases in which the [U.S. Attorney’s Office] will no longer assume responsibility for providing a defense.”<br /><br />Driven by President Donald Trump’s aggressive deportation campaign, an influx of immigration arrests have flooded the courts with habeas corpus petitions as detainees seek to challenge ICE holds. The administration also regularly <a href=\"https://www.courthousenews.com/fifth-circuit-rules-trump-mandatory-detention-policy-constitutional/\"><u>denies bond hearings</u></a> to many immigrants, which has contributed to the surge.<br /><br />Between January 2025 and Nov. 3, there were about 2,000 immigration habeas petitions filed in western Washington, a district that handles nearly all of the state’s detention challenges, <a href=\"https://projects.propublica.org/habeas-tracker/\"><u>according to ProPublica</u></a>. Earlier this year, judges reported working after-hours and on weekends to handle the influx of emergency motions, The Seattle Times <a href=\"https://www.seattletimes.com/seattle-news/law-justice/wa-sees-historic-surge-of-immigrants-challenging-their-detention/\"><u>reported</u></a>.<br /><br />Taking on every case consumes substantial time, Floyd wrote, “even after the petitioner has been released or received a bond hearing.” He added that the workload has made it harder to handle other civil cases.<br /><br />Under the new policy, Floyd said the courts can “assume” that his office will not be challenging detainees if a government lawyer does not appear within seven court days of a scheduling order.<br /><br />That scenario played out Saturday, when government lawyers didn’t show up to oppose the <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.wawd.370859/gov.uscourts.wawd.370859.4.0.pdf\"><u>detention petition</u></a> of Baljit Singh, an asylum seeker from India.<br /><br />Singh was detained in September after he and friends inadvertently reached an exit at the Canadian border while visiting a state park, according to a complaint filed in federal court.<br /><br />U.S. District Judge Tiffany M. Cartwright ruled the case as “intentionally unopposed” and ordered Singh be released within 24 hours. Floyd’s letter was included as an exhibit in that case, making it public.<br />",
+      "author": "Gavin J. Quinton",
+      "id": "https://www.washingtonsun.com/legal/us-attorney-western-washington-state-immigration-detention-cases-unopposed",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-10T03:04:59.996702"
+  "last_updated": "2026-11-10T06:07:13.042376"
 }
