@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "entry_count": 16,
+  "entry_count": 17,
   "entries": [
     {
       "title": "2 killed, 1 hurt in Amtrak train crash in Western Springs",
@@ -161,7 +161,17 @@
       "author": "Patrick Finley",
       "id": "https://chicago.suntimes.com/bears/2026/11/12/catch-22-bears-cris-collinsworth-mike-tomlin-built-go-far-caleb-williams-ben-johnson-bye-week",
       "tags": []
+    },
+    {
+      "title": "Woman killed, white car sought in West Garfield Park hit and run",
+      "link": "https://chicago.suntimes.com/crime/2026/11/12/woman-killed-white-car-sought-in-deadly-west-garfield-park-hit-and-run",
+      "published": "2026-11-12T06:50:07.845-06:00",
+      "published_parsed": "2026-11-12T12:50:07",
+      "summary": "<img alt=\"A woman was fatally struck by a vehicle Nov. 11, 2026 on the West Side. \" src=\"https://cst.brightspotcdn.com/dims4/default/3446988/2147483647/strip/true/crop/6974x4652+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2F15%2Fc538d3a14111b5a7839f59b2c8a6%2Fcpd-08-1.JPG\" />\n        \n        \n            &lt;p&gt;Police are looking for the driver of a white car that fled the scene after slamming into a 69-year-old woman, killing her Wednesday night in West Garfield Park. &lt;/p&gt;&lt;p&gt;Around 9:45 p.m., the 69-year-old woman was crossing the street in the 4200 block of West Madison Street when a white sedan struck her, knocking her to the ground, and fled the scene, Chicago police said. &lt;/p&gt;&lt;p&gt;She suffered severe body trauma and was taken to Mount Sinai Hospital where she died, police said. &lt;/p&gt;&lt;p&gt;Area 4 detectives were investigating. &lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/11/12/woman-killed-white-car-sought-in-deadly-west-garfield-park-hit-and-run",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-12T12:06:00.569135"
+  "last_updated": "2026-11-12T15:03:44.208672"
 }
