@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "entry_count": 13,
+  "entry_count": 15,
   "entries": [
     {
       "title": "Man, 40, fatally shot leaving Grand Crossing gas station Saturday",
@@ -131,7 +131,27 @@
       "author": "Ben Pope",
       "id": "https://chicago.suntimes.com/blackhawks/2026/11/15/blackhawks-sam-rinzel-defenseman-wyatt-kaiser",
       "tags": []
+    },
+    {
+      "title": "Delays, cancellations dropping at Chicago's airports following Friday's ground stop",
+      "link": "",
+      "published": "2026-11-15T11:30:48.002-06:00",
+      "published_parsed": "2026-11-15T17:30:48",
+      "summary": "<img alt=\"Airline passengers waited in line Saturday to speak with United agents at O’Hare International Airport.\" src=\"https://cst.brightspotcdn.com/dims4/default/01adc82/2147483647/strip/true/crop/7808x5208+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F84%2F22%2F33c3c1d143439c83865ce42f5602%2Ffaagroundstopfallout-261114-018.jpg\" />\n        \n        \n            &lt;p&gt;Fewer delays and cancellations at Chicago's airports were reported so far on Sunday following Friday's nationwide ground stop.&lt;/p&gt;&lt;p&gt;As of late morning Sunday morning, O'Hare International Airport was reporting 272 delayed flights and 145 canceled flights, according to the flight tracking website FlightAware. That's a considerable drop  from Saturday when the airport experienced 894 delays and 742 cancellations.&lt;/p&gt;&lt;p&gt;Midway International Airport saw similar improvement, according to FlightAware's data. As of Sunday morning, the airport had 112 delays and 35 cancellations. On Saturday, Midway reported 143 delayed flights and 76 canceled flights.&lt;/p&gt;&lt;p&gt;Air travel was thrown into chaos across the country Friday after the Federal Aviation Administration issued a rare, nationwide ground stop. &lt;a class=\"Link\"  href=\"https://chicago.suntimes.com/transportation/2026/11/13/all-departing-flights-grounded-nationwide-due-to-faa-order\"  target=\"_blank\"   &gt;Federal officials blamed&lt;/a&gt; the country's aging air traffic control system for instability in air traffic control communications.&lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "",
+      "tags": []
+    },
+    {
+      "title": "First cold-related death of the season reported in Cook County",
+      "link": "https://chicago.suntimes.com/health/2026/11/15/first-cold-related-death-of-the-season-reported-in-cook-county",
+      "published": "2026-11-15T11:26:55.458-06:00",
+      "published_parsed": "2026-11-15T17:26:55",
+      "summary": "<img alt=\"The Cook County medical examiner reported the first cold-related death of the season.\" src=\"https://cst.brightspotcdn.com/dims4/default/198a9db/2147483647/strip/true/crop/454x340+0+0/resize/840x629!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F88%2F67%2Fd3c62120841760d8d21ddfdff639%2Fcook-county-medical-examiner-e1526654792321.jpg\" />\n        \n        \n            &lt;p&gt;A 58-year-old man died Friday in Evergreen Park from exposure to the cold as temperatures dropped overnight, according to the Cook County medical examiner's office. &lt;/p&gt;&lt;p&gt;Paul Valkenburg was found in the 9800 block of South Albany Avenue and pronounced dead at 6:20 a.m. from \"environmental cold exposure,\" according to the medical examiner. &lt;/p&gt;&lt;p&gt;It was the first cold-related death reported this season.&lt;/p&gt;&lt;p&gt;&lt;a class=\"Link\"  href=\"https://chicago.suntimes.com/health/2026/10/03/all-heat-related-deaths-are-preventable-but-in-the-chicago-area-16-died-from-heat-this-summer\"  target=\"_blank\"   &gt;Sixteen people died&lt;/a&gt; from heat-related causes this summer.&lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/health/2026/11/15/first-cold-related-death-of-the-season-reported-in-cook-county",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-15T15:03:21.272994"
+  "last_updated": "2026-11-15T18:04:38.181541"
 }
