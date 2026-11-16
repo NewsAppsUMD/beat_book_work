@@ -1,6 +1,6 @@
 {
   "date": "2026-11-16",
-  "entry_count": 3,
+  "entry_count": 4,
   "entries": [
     {
       "title": "The Washington Sun Metro: ‘We Share This Loss’",
@@ -34,7 +34,18 @@
       "author": "Ayah Ali-Ahmad",
       "id": "https://www.washingtonsun.com/technology/house-democrats-prepping-ai-bills-republicans",
       "tags": []
+    },
+    {
+      "title": "Amtrak Halts Service Around D.C., Citing ‘Local Municipal Officials’",
+      "link": "https://www.washingtonsun.com/metro/dc-amtrak-train-service-halt",
+      "published": "Mon, 16 Nov 2026 20:07:01 GMT",
+      "published_parsed": "2026-11-16T20:07:01",
+      "summary": "The company said on social media that a “local municipal government” ordered a hold on the tracks “just north of Washington.”",
+      "content": "<figure><img alt=\"Union Station\" src=\"https://static.washingtonsun.com/dims4/default/8f6c3b4/2147483647/strip/false/crop/5000x3333+0+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F4e%2F12%2Ff97a9c5041eebae0c32e11ffaa17%2Fap26237116259302.jpg\" /><figcaption>(Francis Chung/POLITICO via AP Images)</figcaption></figure>Amtrak shut down its services around the District on Monday after being ordered by “local municipal officials” to place a hold on the tracks, the company said in a <a href=\"https://x.com/Amtrak/status/2122389262599331991?a=mSF59w4GR8yxDVc_tKs&amp;s=20\"><u>post on X</u></a>.<br /><br />In a <a href=\"https://x.com/Amtrak/status/2122408642724950501?a=a1JBSjIn3X8hxE6fl20&amp;s=20\"><u>response on X</u></a>, Amtrak said it could not provide an estimated time for when the hold would be lifted, because it “was done by a local municipal government.” Officials said in another <a href=\"https://x.com/Amtrak/status/2122406582881288262?a=Q8c8OOjQHKIC2gpRZng&amp;s=20\"><u>reply on X</u></a> that the hold was placed on tracks “just north of Washington.”<br /><br />When asked about the hold, a Metropolitan Police Department spokesperson told The Washington Sun: “We are not aware of anything in DC.”<br /><br />“We apologize for any inconvenience this delay may have caused and appreciate your patience and understanding,” Amtrak said. “For customers waiting to board, please be aware that your train may make up time and arrive or depart earlier than previously estimated.”<br /><br />Amtrak said in <a href=\"https://x.com/Amtrak/status/2122414958805717144?a=HuTQN4PhRfZCP5mjwdA&amp;s=20\"><u>another post</u></a> around 2:40 p.m. that it expects services to “resume shortly.”<br /><br />The hold came after the Prince George’s County Fire Department <a href=\"https://x.com/PGFDNews/status/2122405762643497253?s=20\"><u>posted on X</u></a> that it had found a dead man around noon in the area of 57th Avenue and Tuxedo Road in Tuxedo after receiving reports of a train colliding with a pedestrian. The post also said that Amtrak was investigating the incident.<br /><br />Amtrak did not respond to a request for comment.",
+      "author": "Justice Covert",
+      "id": "https://www.washingtonsun.com/metro/dc-amtrak-train-service-halt",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-16T18:05:10.639455"
+  "last_updated": "2026-11-16T21:03:28.361689"
 }
