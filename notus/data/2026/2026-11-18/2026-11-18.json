@@ -1,6 +1,6 @@
 {
   "date": "2026-11-18",
-  "entry_count": 4,
+  "entry_count": 5,
   "entries": [
     {
       "title": "Complaints Against DOJ Officials Have Surged During Trump’s Second Term",
@@ -45,7 +45,18 @@
       "author": "The Associated Press",
       "id": "https://www.washingtonsun.com/defense/iran-targets-us-base-kuwait",
       "tags": []
+    },
+    {
+      "title": "The Trump Administration Is Fighting to Keep Freezing Solar Program Grants",
+      "link": "https://www.washingtonsun.com/energy-environment/trump-administration-appealing-solar-program-grants",
+      "published": "Wed, 18 Nov 2026 17:33:36 GMT",
+      "published_parsed": "2026-11-18T17:33:36",
+      "summary": "The administration is appealing a decision that it illegally froze Solar for All funds.",
+      "content": "<figure><img alt=\"Solar Farm\" src=\"https://static.washingtonsun.com/dims4/default/a7ed2b9/2147483647/strip/false/crop/5069x3379+0+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F17%2Fd2%2F94e1b3014354a91480d3fe2de75f%2Fbiden-renewables-21015698561233.jpg\" /><figcaption>The $7 billion Solar for All program was created to make solar power accessible to lower-income communities. (Robert F. Bukaty/AP)</figcaption></figure>The Trump administration is <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.rid.60578/gov.uscourts.rid.60578.50.0_1.pdf\"><u>appealing</u></a> a court ruling that it illegally froze funds for a nationwide solar program, thrusting grant recipients into more uncertainty.<br /><br />The $7 billion Solar for All program was created to make solar power accessible to lower-income communities. More than 30 states and organizations received awards before the Environmental Protection Agency halted the program in August 2025.<br /><br />Those awards have been in <a href=\"https://www.wbur.org/news/2026/11/06/massachusetts-solar-for-all-funds-epa-congress\"><u>limbo</u></a> for the past year. In court filings, groups suing the EPA said solar companies and nonprofits have had to shift their focus, in some <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.rid.60578/gov.uscourts.rid.60578.32.0.pdf\"><u>cases</u></a> forcing major layoffs of workers hired to help with Solar for All programming.<br /><br />In September, two federal judges <a href=\"https://www.washingtonsun.com/energy/judge-rules-epa-illegally-terminated-solar-program\"><u>ruled</u></a> in separate cases that the Trump administration’s termination of the program was illegal. Those rulings did not require federal officials to immediately disburse funds to grantees.<br /><br />Adam Kent, senior director of green finance at the Natural Resources Defense Council, said the program drew enthusiasm from both sides of the aisle, and a continued funding freeze would threaten affordability.<br /><br />“Skyrocketing utility bills are putting a squeeze on Americans from Anchorage to Orlando, but the Trump administration is ignoring their plight. Instead of getting out of the way of a program that will lower energy bills, the Trump administration is continuing its obstruction and delay,” he said in a statement.<br /><br />Other cases involving Solar for All grants are moving forward in the Court of Federal Claims, where states and organizations can sue the federal government for damages over contract issues, but not for other kinds of relief like the reinstatement of programs. The Trump administration has argued that cases over its cancellation of Biden-era climate programs belong in that court, rather than in federal courts.",
+      "author": "Mara Hoplamazian",
+      "id": "https://www.washingtonsun.com/energy-environment/trump-administration-appealing-solar-program-grants",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-18T15:03:54.230544"
+  "last_updated": "2026-11-18T18:04:59.563682"
 }
