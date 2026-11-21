@@ -1,6 +1,6 @@
 {
   "date": "2026-11-21",
-  "entry_count": 18,
+  "entry_count": 19,
   "entries": [
     {
       "title": "City lights up downtown Chicago with official Christmas tree at Millennium Park",
@@ -181,7 +181,17 @@
       "author": "Abigail Van Buren",
       "id": "https://chicago.suntimes.com/dear-abby/2026/11/21/dearabby-today-dear-abby-nearsexagenarian-still-dreams-of-fatherhood",
       "tags": []
+    },
+    {
+      "title": "2 killed in West Town shooting",
+      "link": "https://chicago.suntimes.com/crime/2026/11/21/2-killed-in-west-town-shooting",
+      "published": "2026-11-21T09:11:44.739-06:00",
+      "published_parsed": "2026-11-21T15:11:44",
+      "summary": "<img alt=\"Chicago Police Department \" src=\"https://cst.brightspotcdn.com/dims4/default/3446988/2147483647/strip/true/crop/6974x4652+0+0/resize/840x560!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F79%2F15%2Fc538d3a14111b5a7839f59b2c8a6%2Fcpd-08-1.JPG\" />\n        \n        \n            &lt;p&gt;A man and woman were fatally shot after an argument broke out early Saturday in West Town. &lt;/p&gt;&lt;p&gt;They were standing with a group in the 1000 block of North Milwaukee Avenue around 2 a.m. when an argument began with an unknown person, Chicago police said. &lt;/p&gt;&lt;p&gt;The person pulled out a gun and opened fire, police said. &lt;/p&gt;&lt;p&gt;The man suffered multiple gunshot wounds and the woman was struck in the chest. They were taken to Stroger Hospital and both were pronounced dead. &lt;/p&gt;&lt;p&gt;No arrests were made. &lt;/p&gt;",
+      "author": "Sun-Times Wire",
+      "id": "https://chicago.suntimes.com/crime/2026/11/21/2-killed-in-west-town-shooting",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-21T15:03:24.659253"
+  "last_updated": "2026-11-21T18:04:33.583020"
 }
