@@ -1,6 +1,6 @@
 {
   "date": "2026-11-23",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "title": "Trump Administration Delays Iowa Lead Detonation to Wednesday",
@@ -23,7 +23,18 @@
       "author": "Martin Austermuhle, Zara Norman",
       "id": "https://www.washingtonsun.com/metro-newsletter/one-of-our-own",
       "tags": []
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang After Trump’s Urging",
+      "link": "https://www.washingtonsun.com/technology/nvidia-board-reinstates-jensen-huang-trump",
+      "published": "Mon, 23 Nov 2026 14:23:22 GMT",
+      "published_parsed": "2026-11-23T14:23:22",
+      "summary": "The company said its board of directors unanimously voted to reinstate him.",
+      "content": "<figure><img alt=\"Nvidia\" src=\"https://static.washingtonsun.com/dims4/default/c85421b/2147483647/strip/false/crop/7958x5305+0+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F92%2F26%2F879265504579be87fcb403d5f89d%2Fap26316456399217.jpg\" /><figcaption>“The Country needs Jensen’s leadership at NVIDIA,\" President Donald Trump wrote on Truth Social on Monday. (Julia Demaree Nikhinson/AP)</figcaption></figure>Jensen Huang is once again the president and CEO of Nvidia after the computer chip giant’s board of directors unanimously voted to reinstate him, Nvidia <a href=\"https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director\"><u>announced Monday</u></a>.<br /><br />Huang stepped down from the position less than two weeks ago after news broke that he had an affair with a woman suspected of spying for China. Huang reportedly also had an affair with two other employees at Nvidia, which is underpinning the United States’ current artificial intelligence buildout.<br /><br />The company said in a statement that it “received input from senior levels of the United States government, and based on that input, the Board is confident that Mr. Huang’s reinstatement poses no national security risk.”<br /><br />After suggesting that former Apple head Tim Cook take the role, President Donald Trump <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117663497310955803\"><u>wrote on Truth Social</u></a> Sunday night that he hoped the board would rehire Huang. Huang also put out feelers in a statement following his resignation, telling the board he would come back if they would have him.<br /><br />Trump <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117666141823845971\"><u>said in a Truth Social post</u></a> on Monday that the board had made “the correct and proper decision” and that the government “has no reason to believe” Huang’s return “poses any risk to National Security.”<br /><br />“The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American economy,” Trump wrote, adding that the government does not have any evidence of “unlawful conduct” from Huang.<br /><br />Nvidia, however, should continue its internal investigation on export control compliance, Trump wrote.<br /><br />The Department of Justice <a href=\"https://www.justice.gov/opa/pr/joint-statement-department-commerce-and-department-justice-megaspeed-investigation\"><u>announced last week</u></a> that it has been investigating cloud computing company Megaspeed — once led by Alice Huang, who was <a href=\"https://www.nytimes.com/2026/11/22/us/politics/alice-huang-china-spy-agency-nvidia.html\"><u>reportedly in touch</u></a> with China’s Ministry of State Security during her affair with Jensen Huang. The Department of Commerce launched its investigation in 2024 after noticing “potential sensitive semiconductor diversion.”<br /><br />“We have to see where the buck stops,” Treasury Secretary Scott Bessent said on CBS’ “Face the Nation” Sunday. “Were these malicious actors down at the bottom of the company who were responsible for the noncompliance?”<br /><br />Nvidia said it formed a new committee “comprised solely of independent directors to oversee trade compliance and national security risks.”<br /><br />Jensen Huang said in a statement that he is “honored to return.”<br /><br />“I take this responsibility with the greatest humility and renewed commitment,” he said.<br /><br />It’s not the first time a major technology executive has returned from a short-lived exile. OpenAI’s board of directors ousted Sam Altman in November 2023 — in part over allegedly misleading the board — only for Altman to return <a href=\"https://www.nytimes.com/2023/11/22/technology/openai-sam-altman-returns.html\"><u>less than a week later</u></a>.",
+      "author": "Kyle Chouinard",
+      "id": "https://www.washingtonsun.com/technology/nvidia-board-reinstates-jensen-huang-trump",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-23T12:06:15.491563"
+  "last_updated": "2026-11-23T15:04:38.658052"
 }
