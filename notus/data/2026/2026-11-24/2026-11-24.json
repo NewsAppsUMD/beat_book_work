@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "entry_count": 4,
+  "entry_count": 5,
   "entries": [
     {
       "title": "Prosecutors Say Probe Into Ilhan Omar Goes Back to the 1980s",
@@ -45,7 +45,18 @@
       "author": "Noah Ferguson",
       "id": "https://www.washingtonsun.com/sports/commanders/antonio-williams-bengals",
       "tags": []
+    },
+    {
+      "title": "Democrat Victoria Broderick Unseats Republican Rep. Scott DesJarlais in Tennessee",
+      "link": "https://www.washingtonsun.com/campaigns/victoria-broderick-scott-desjarlais-election-result-2026",
+      "published": "Tue, 24 Nov 2026 17:56:36 GMT",
+      "published_parsed": "2026-11-24T17:56:36",
+      "summary": "The Republican has been in the U.S. House since 2010.",
+      "content": "<figure><img alt=\"Victoria Broderick, a Democrat who defeated Rep. Scott DesJarlais, outside the Capitol.\" src=\"https://static.washingtonsun.com/dims4/default/e1a769b/2147483647/strip/false/crop/4380x2920+0+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F3a%2F85%2F6e50b0104230be70c8649e840dff%2Frep-elect-victoria-broderick-26315838683746.jpg\" /><figcaption>Victoria Broderick, a Democrat, defeated Rep. Scott DesJarlais. (Bill Clark/CQ Roll Call via AP Images)</figcaption></figure>Democrat Victoria Broderick defeated eight-term Republican Rep. Scott DesJarlais in Tennessee’s 4th Congressional District by a margin of less than 400 votes, AP projected on Tuesday.<br /><br />Broderick’s victory gives Democrats 259 seats in the U.S. House — a record-breaking majority the party has not seen since last century. The Tennessee Democrat’s win also marks the 47th House seat flip for Democrats this cycle.",
+      "author": "Jenna Monnin",
+      "id": "https://www.washingtonsun.com/campaigns/victoria-broderick-scott-desjarlais-election-result-2026",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-24T15:04:00.256259"
+  "last_updated": "2026-11-24T18:05:02.882437"
 }
