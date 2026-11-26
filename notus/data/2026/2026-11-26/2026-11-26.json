@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "title": "Another Federal Judge Declines to Block Trump’s Taxpayer-Funded Ads After DNC Lawsuit",
@@ -12,7 +12,18 @@
       "author": "Jenna Monnin",
       "id": "https://www.washingtonsun.com/legal/federal-judge-trump-taxpayer-ad-dnc-lawsuit-declines-block",
       "tags": []
+    },
+    {
+      "title": "Court Halts FCC From Threatening ABC Stations’ Broadcast Licenses",
+      "link": "https://www.washingtonsun.com/legal/judge-abc-news-stations-jimmy-kimmel-fcc-licenses",
+      "published": "Thu, 26 Nov 2026 00:54:46 GMT",
+      "published_parsed": "2026-11-26T00:54:46",
+      "summary": "The judge called the lawsuit “not a close case” and found ABC was likely to prove the FCC retaliated against the broadcaster for speech critical of the president.",
+      "content": "<figure><img alt=\"New Season ABC\" src=\"https://static.washingtonsun.com/dims4/default/9a0555f/2147483647/strip/false/crop/1024x683+0+86/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F7e%2F30%2Feaf8bab94922897ef3468fefb1d4%2Fap19134133123079.jpg\" /><figcaption>ABC said the FCC violated its rights in demanding early renewal for eight broadcast licenses. (Mary Altaffer/AP)</figcaption></figure>A federal judge on Wednesday halted early license-renewal proceedings for eight ABC-owned stations that began a day after President Donald Trump demanded the network fire late-night host Jimmy Kimmel.<br /><br />In a scathing 45-page opinion issued Wednesday, U.S. District Judge Loren AliKhan noted how quickly the Federal Communications Commission acted after Trump demanded ABC and its parent, The Walt Disney Company, fire Kimmel over a joke about first lady Melania Trump. The FCC ordered the stations in April to apply for broadcast license renewal, years before their licenses were set to expire.<br /><br />“Chairman Carr has taken President Trump’s rhetoric as his marching orders” AliKhan wrote, referencing FCC Chair Brendan Carr. “Against the backdrop of President Trump and Chairman Carr’s call-and-response, it is no coincidence that President Trump criticized Mr. Kimmel’s skit on social media and the very next day Defendants initiated the early license renewal proceedings.”<br /><br />The preliminary injunction pauses the renewal proceedings for eight ABC-owned stations while their suit against the FCC continues.<br /><br />In her ruling, AliKhan found that ABC was likely to prove the FCC acted in retaliation against the broadcaster’s protected speech.<br /><br />“This is not a close case,” the judge wrote. “Defendants may not retaliate against or punish Plaintiffs and other broadcast license holders for disfavored speech.”",
+      "author": "Gavin J. Quinton",
+      "id": "https://www.washingtonsun.com/legal/judge-abc-news-stations-jimmy-kimmel-fcc-licenses",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-26T00:10:29.227370"
+  "last_updated": "2026-11-26T03:05:10.103974"
 }
