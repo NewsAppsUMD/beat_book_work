@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "entry_count": 2,
+  "entry_count": 3,
   "entries": [
     {
       "title": "Georgetown Falls Short Against Texas, Losing 92-83",
@@ -23,7 +23,18 @@
       "author": "Michelle Del Rey",
       "id": "https://www.washingtonsun.com/defense/hackers-breach-air-force-cloud-one-reuters-report",
       "tags": []
+    },
+    {
+      "title": "The Protect College Sports Act Is the Dred Scott Case of Our Time",
+      "link": "https://www.washingtonsun.com/perspectives/the-protect-college-sports-act-is-the-dred-scott-case-of-our-time",
+      "published": "Fri, 27 Nov 2026 19:55:46 GMT",
+      "published_parsed": "2026-11-27T19:55:46",
+      "summary": "This isn’t about ending the “chaos” in college sports. It’s about reasserting control over Black men.",
+      "content": "",
+      "author": "",
+      "id": "https://www.washingtonsun.com/perspectives/the-protect-college-sports-act-is-the-dred-scott-case-of-our-time",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-27T18:04:54.987858"
+  "last_updated": "2026-11-27T21:03:34.994573"
 }
