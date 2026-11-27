@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "entry_count": 1,
+  "entry_count": 2,
   "entries": [
     {
       "title": "Georgetown Falls Short Against Texas, Losing 92-83",
@@ -12,7 +12,18 @@
       "author": "The Associated Press",
       "id": "https://www.washingtonsun.com/sports/colleges/georgetown-loses-texas-92-83",
       "tags": []
+    },
+    {
+      "title": "Hackers Breach the Air Force’s Cloud Computing Program: Report",
+      "link": "https://www.washingtonsun.com/defense/hackers-breach-air-force-cloud-one-reuters-report",
+      "published": "Fri, 27 Nov 2026 16:44:29 GMT",
+      "published_parsed": "2026-11-27T16:44:29",
+      "summary": "The attack put sensitive military data, including for logistics and tactical operations, at risk.",
+      "content": "<figure><img alt=\"Air Force\" src=\"https://static.washingtonsun.com/dims4/default/2419dc9/2147483647/strip/false/crop/1005x670+10+0/resize/1872x1248!/quality/90/?url=https%3A%2F%2Fk2-prod-aji.s3.us-east-1.amazonaws.com%2Fbrightspot%2F81%2Fcf%2Fa73b8f914a46bd7282314cdcee1e%2Fap25219693455356.jpg\" /><figcaption>The Air Force says Cloud One is its “one-stop shop for Department of Defense mission” computing operations. (Michael Sohn/AP)</figcaption></figure>The Air Force’s cloud computing program was hacked earlier this year, potentially putting sensitive tactical, personnel and logistics data at risk, according to a report from Reuters.<br /><br />The breach occurred during a system upgrade at Cloud One within the past month or so,<a href=\"https://www.reuters.com/world/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-2026-11-27/\"><u> Reuters reported</u></a>, adding that the outlet could not establish the identity of the hackers, the scope of the intrusion, or whether any data had been stolen.<br /><br />The Air Force did not immediately respond to a request for comment from The Washington Sun.<br /><br />A Pentagon official told The Sun it does not comment on the status of its networks “as a matter of policy and operations security.”<br /><br />Launched in 2017, Cloud One is the Air Force’s leading provider of state-of-the-art cloud computing platforms, technologies, approaches and solutions, <a href=\"https://cloudone.af.mil/?utm_source=chatgpt.com#Home\"><u>according to its website</u></a>. It runs on Microsoft, Oracle, Amazon and Google technology.<br /><br />The tech companies have yet to publicly comment on the reported breach.<br /><br />The Air Force describes Cloud One as a “one-stop shop for Department of Defense mission application owners that require a full array of commercial cloud services, delivering speed, scale and security with cutting-edge technologies, approaches and solutions for cloud computing.”<br /><br />According to Reuters, Cloud One hosts the Air Force’s Cloud-Based Command and Control, a program that collects defense radar data, and the Theater Integrated Combat Munitions System, a bomb-tracking and missile service.<br /><br />The news outlet cited anonymous sources to report the hacking caused disruption to military services, barring updates to Cloud One applications and stopping officials from migrating back-office applications to Cloud One.<br /><br />One source told Reuters that hackers reached Cloud One’s control plane, which it compared to a universal remote.<br /><br />The hacking comes after a slew of technology outages over the last month impacting air travel, Microsoft Outlook and banks.<br /><br />The U.S. government has also suffered a recent string of cyber incidents that affected the <a href=\"https://www.washingtonsun.com/whitehouse/unclassified-cia-system-was-breached-cyberattack\"><u>U.S. intelligence community</u></a>, <a href=\"https://www.washingtonsun.com/administration/fbi-investigating-apparent-hack-of-law-enforcement-database-ap-source\"><u>the FBI</u></a>, the Pentagon and the <a href=\"https://www.washingtonsun.com/technology/bank-ceos-nsa-tell-congress-ai-driven-patches-behind-outages\"><u>departments of Homeland Security and Treasury</u></a>.",
+      "author": "Michelle Del Rey",
+      "id": "https://www.washingtonsun.com/defense/hackers-breach-air-force-cloud-one-reuters-report",
+      "tags": []
     }
   ],
-  "last_updated": "2026-11-27T15:04:19.277670"
+  "last_updated": "2026-11-27T18:04:54.987858"
 }
